@@ -1,0 +1,7 @@
+streamlit
+torch
+transformers
+fire
+Pillow
+einops
+streamlit-keyup
